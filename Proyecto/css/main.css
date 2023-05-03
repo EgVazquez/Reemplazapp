@@ -1,0 +1,113 @@
+body{
+    background-color: lightgoldenrodyellow !important;
+}
+
+.carousel-inner{
+    margin-top: 2%;
+    max-height: 39rem !important;
+    margin-bottom: 1%;
+}
+
+img{
+    width: 80%;
+    height: 600px;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+#botonLogin{
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+
+.Login{
+    padding: 8px !important;
+    margin-left: 5% !important;
+    margin-bottom: 2%;
+}
+
+.Login-1{
+    display: flex !important;
+    padding: 8px !important;
+    margin-left: 40% !important;
+    margin-bottom: 2%;
+}
+
+#botonSesion{
+    position: relative;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+
+}
+
+#botonCancelar{
+    /*display: inline-flex;*/
+    position: relative;
+    text-align: center;
+    width: 100vw;
+    margin: 5px;
+}
+
+#botonAceptar{
+    display: inline-flex;
+    width: auto;
+    margin-left: 60%;
+    margin-right: 5%;
+}
+
+input{
+    display: flex !important;
+    margin-left: 38% !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 25% !important;
+}
+
+#imagen-login{
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+    display: flex !important;
+    height: 20rem !important;
+    margin-left: 38rem !important;
+    width: 20rem;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+#input-login{
+    margin-bottom: 9% !important;
+}
+
+.linkeo-nueva-cuenta{
+    margin-left: 8px !important;
+    padding: 8px !important;
+}
+
+#map {
+    height: 100%;
+}
+
+#btn-enviar{
+    margin-right: 75px !important;
+}
+
+label {
+    display: block;
+    position: relative;
+    width: 100vw;
+    align-items: center; 
+    text-align: center;
+}
+
+small {
+    display: block;
+    position: relative;
+    width: 100vw;
+    align-items: center; 
+    text-align: center;
+}
